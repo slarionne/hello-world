@@ -1,2 +1,5 @@
 # hello-world
-new project
+
+Hi Humans!
+
+Sebastien here, I like python and Java, help me find a job please!
