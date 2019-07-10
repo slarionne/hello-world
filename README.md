@@ -1,5 +1,4 @@
 # hello-world
 
-Hi Humans!
+Hi people of github!
 
-Sebastien here, I like python and Java, help me find a job please!
